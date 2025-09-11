@@ -19,7 +19,8 @@ This dashboard presents an analytical overview of 630 professionals across multi
 - Career Switch & Motivation Factors: Major reason for switching careers: Better Salary, Other common motivations include: Remote Work, Work-Life Balance, Good Culture
 
   ## Dashbord
-  ![Alt text](https://github.com/Temitopeadep/Professional-Trend-Analysis/commit/435b77c5c7acca674117ae52e7c65f33fe4945b8)
+ <img width="1462" height="757" alt="trend analysis" src="https://github.com/user-attachments/assets/941f540f-4f0f-4fa5-b9fe-d6c2659a44ae" />
+
 
   ## Obervation
 1. Most survey data and insights are skewed toward the Data Analyst profile, which should be taken into account in interpretation.
